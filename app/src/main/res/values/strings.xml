@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Todo Movie3</string>
+    <string name="the_very_best_of" translatable="false">The Very Best of</string>
+    <string name="brad_pitt" translatable="false">Brad Pitt</string>
+    <string name="view_0" translatable="false">View 0</string>
+    <string name="_1_2k_likes" translatable="false">1.2k Likes</string>
+</resources>
